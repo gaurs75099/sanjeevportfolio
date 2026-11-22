@@ -16,8 +16,9 @@ export function HeroSection() {
           </h1>
           <p className="hero-copy">
             I&apos;m Sanjeev, a React Native, React.js, and Next.js developer
-            with 5+ years of experience. I build digital products for
-            businesses and bring production-ready skills to engineering teams.
+            with 6+ years of overall experience, including 5+ years in React
+            Native. I build digital products for businesses and bring
+            production-ready skills to engineering teams.
           </p>
           <div className="hero-actions">
             <a className="button-primary" href="#client-path">

@@ -30,9 +30,9 @@ export function AudienceSection() {
           <span className="audience-kicker">For hiring teams</span>
           <h2>Looking for a React, Next.js, or React Native developer?</h2>
           <p>
-            I bring 5+ years of production experience, including enterprise
-            projects at EY, with a focus on reusable UI, performance, and
-            dependable delivery.
+            I bring 6+ years of overall production experience, including 5+
+            years with React Native and enterprise projects at EY, with a focus
+            on reusable UI, performance, and dependable delivery.
           </p>
           <div className="audience-metrics" aria-label="Selected results">
             <span>

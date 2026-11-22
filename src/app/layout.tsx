@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Sanjeev Gaur — Frontend & React Native Developer",
   description:
-    "Sanjeev Gaur is a frontend and React Native developer building thoughtful web and mobile experiences with React, Next.js, and TypeScript.",
+    "Sanjeev Gaur is a frontend and React Native developer with 6+ years of overall experience, including 5+ years in React Native.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

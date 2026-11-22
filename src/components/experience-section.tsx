@@ -8,7 +8,7 @@ export function ExperienceSection() {
         <SectionHeading
           index="03 / Experience"
           title="Good work comes from good teams."
-          description="Five years of learning, shipping, and making products better with thoughtful teams."
+          description="Six years of learning, shipping, and making products better with thoughtful teams."
         />
         <div className="experience-list">
           {experience.map((item) => (

@@ -37,3 +37,26 @@ The header theme toggle supports light and dark themes, follows the system prefe
 npm run lint
 npm run build
 ```
+
+## Deploy to Vercel
+
+One-time setup:
+
+```bash
+npx vercel login
+npx vercel link
+```
+
+Deploy the current branch, commit the changes, push to GitHub, and promote the deployment to Vercel production:
+
+```bash
+npm run deploy
+```
+
+The deployment script runs lint and build, commits staged work with a default message, pushes the current branch, and runs `npx vercel --prod --yes`.
+
+Optional preview deployment without GitHub push:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File ./scripts/deploy.ps1 -Preview -SkipPush
+```
